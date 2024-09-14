@@ -1,0 +1,23 @@
+.options {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.options button {
+  font-size: 16px;
+  margin: 0 10px;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #6a6262;
+  transition: background-color 0.3s;
+}
+
+.options button:hover {
+  background-color: #242222;
+}
+
+.options button:active {
+  background-color: #a7a4a4;
+}
